@@ -43,7 +43,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="min-h-screen flex items-center relative overflow-hidden">
         <div className="absolute inset-0">
-          <img src="/images/hero-bg.jpg" alt="" className="w-full h-full object-cover" />
+          <img src="./images/hero-bg.jpg" alt="" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-r from-[#0a0a0f]/95 via-[#0a0a0f]/80 to-[#0a0a0f]/60" />
           <div className="absolute top-20 left-10 w-72 h-72 bg-[var(--color-accent-orange)]/5 rounded-full blur-[100px]" />
           <div className="absolute bottom-20 right-10 w-96 h-96 bg-[var(--color-accent-cyan)]/5 rounded-full blur-[100px]" />
